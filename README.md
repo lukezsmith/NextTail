@@ -1,4 +1,8 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# NextTail
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) and [`Tailwind CSS`](https://github.com/tailwindlabs/tailwindcss).
+
+I made this to avoid needing to set up tailwindcss every time I create a Next.js project.
 
 ## Getting Started
 
